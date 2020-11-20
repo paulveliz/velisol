@@ -38,7 +38,7 @@
                 </div> <!-- end of team-member -->
                 <!-- end of team member -->
 
-                {{-- <!-- Team Member -->
+                <!-- Team Member -->
                 <div class="team-member">
                     <div class="image-wrapper">
                         <img class="img-fluid" src="images/team-member-2.svg" alt="alternative">
@@ -84,7 +84,7 @@
                         </span>
                     </span> <!-- end of social-icons -->
                 </div> <!-- end of team-member -->
-                <!-- end of team member --> --}}
+                <!-- end of team member -->
             </div> <!-- end of col -->
         </div> <!-- end of row -->
     </div> <!-- end of container -->
