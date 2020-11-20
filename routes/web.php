@@ -32,3 +32,7 @@ Route::get('precios', function () {
 Route::get('contactar', function () {
     return view('contactar.contactar');
 });
+
+Route::get('terminos', function () {
+    return view('terminos.terminos');
+});
