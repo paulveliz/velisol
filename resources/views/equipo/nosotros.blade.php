@@ -36,55 +36,6 @@
                         </span>
                     </span> <!-- end of social-icons -->
                 </div> <!-- end of team-member -->
-                <!-- end of team member -->
-
-                <!-- Team Member -->
-                <div class="team-member">
-                    <div class="image-wrapper">
-                        <img class="img-fluid" src="images/team-member-2.svg" alt="alternative">
-                    </div> <!-- end of image wrapper -->
-                    <p class="p-large"><strong>Alexis Soberanes</strong></p>
-                    <p class="job-title">Desarrollador de Software</p>
-                    <span class="social-icons">
-                        <span class="fa-stack">
-                            <a href="#your-link">
-                                <i class="fas fa-circle fa-stack-2x facebook"></i>
-                                <i class="fab fa-facebook-f fa-stack-1x"></i>
-                            </a>
-                        </span>
-                        <span class="fa-stack">
-                            <a href="#your-link">
-                                <i class="fas fa-circle fa-stack-2x twitter"></i>
-                                <i class="fab fa-twitter fa-stack-1x"></i>
-                            </a>
-                        </span>
-                    </span> <!-- end of social-icons -->
-                </div> <!-- end of team-member -->
-                <!-- end of team member -->
-
-                <!-- Team Member -->
-                <div class="team-member">
-                    <div class="image-wrapper">
-                        <img class="img-fluid" src="images/team-member-2.svg" alt="alternative">
-                    </div> <!-- end of image wrapper -->
-                    <p class="p-large"><strong>Silvano Armenta</strong></p>
-                    <p class="job-title">Gerente de ventas</p>
-                    <span class="social-icons">
-                        <span class="fa-stack">
-                            <a href="#your-link">
-                                <i class="fas fa-circle fa-stack-2x facebook"></i>
-                                <i class="fab fa-facebook-f fa-stack-1x"></i>
-                            </a>
-                        </span>
-                        <span class="fa-stack">
-                            <a href="#your-link">
-                                <i class="fas fa-circle fa-stack-2x twitter"></i>
-                                <i class="fab fa-twitter fa-stack-1x"></i>
-                            </a>
-                        </span>
-                    </span> <!-- end of social-icons -->
-                </div> <!-- end of team-member -->
-                <!-- end of team member -->
             </div> <!-- end of col -->
         </div> <!-- end of row -->
     </div> <!-- end of container -->

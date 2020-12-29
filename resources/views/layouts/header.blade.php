@@ -18,15 +18,21 @@
                 <a class="nav-link page-scroll" href="/servicios">Servicios</a>
             </li>
             <li class="nav-item">
+                <a class="nav-link page-scroll" href="/productos">Nuestros productos</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link page-scroll" href="/servicios">Clientes</a>
+            </li>
+            <li class="nav-item">
                 <a class="nav-link page-scroll" href="/precios">Precios</a>
             </li>
             <!-- Dropdown Menu -->          
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle page-scroll" href="/nosotros" id="navbarDropdown" role="button" aria-haspopup="true" aria-expanded="false">Nosotros</a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <a class="dropdown-item" href="#"><span class="item-text">Terminos & Condiciones</span></a>
+                    <a class="dropdown-item" href="/terminos"><span class="item-text">Terminos & Condiciones</span></a>
                     <div class="dropdown-items-divide-hr"></div>
-                    <a class="dropdown-item" href="#"><span class="item-text">Politicas de privacidad</span></a>
+                    <a class="dropdown-item" href="/terminos"><span class="item-text">Politicas de privacidad</span></a>
                 </div>
             </li>
             <!-- end of dropdown menu -->

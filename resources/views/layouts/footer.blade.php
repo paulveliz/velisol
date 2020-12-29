@@ -18,7 +18,7 @@
                             </li>
                             <li class="media">
                                 <i class="fas fa-square"></i>
-                                <div class="media-body">Lee nuestros <a class="turquoise" href="#">Términos y condiciones </a>, <a class="turquoise" href="#">Política de privacidad</a></div>
+                                <div class="media-body">Lee nuestros <a class="turquoise" href="/terminos">Términos y condiciones </a>, <a class="turquoise" href="/terminos">Política de privacidad</a></div>
                             </li>
                         </ul>
                     </div>
@@ -49,7 +49,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <p class="p-small">Copyright © 2020 <a href="https://velisol.com">Veliz solutions</a> - All rights reserved</p>
+                    <p class="p-small">Copyright © 2020 <a href="https://paulveliz.ninja">Paul guadalupe veliz lopez</a> - All rights reserved</p>
                 </div> <!-- end of col -->
             </div> <!-- enf of row -->
         </div> <!-- end of container -->

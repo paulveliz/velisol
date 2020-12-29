@@ -36,3 +36,7 @@ Route::get('contactar', function () {
 Route::get('terminos', function () {
     return view('terminos.terminos');
 });
+
+Route::get('productos', function () {
+    return view('productos.productos');
+});
