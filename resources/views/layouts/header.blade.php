@@ -17,12 +17,12 @@
             <li class="nav-item">
                 <a class="nav-link page-scroll" href="/servicios">Servicios</a>
             </li>
-            <li class="nav-item">
+            {{-- <li class="nav-item">
                 <a class="nav-link page-scroll" href="/productos">Nuestros productos</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link page-scroll" href="/servicios">Clientes</a>
-            </li>
+            </li> --}}
             <li class="nav-item">
                 <a class="nav-link page-scroll" href="/precios">Precios</a>
             </li>

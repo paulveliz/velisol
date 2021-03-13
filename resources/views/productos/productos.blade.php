@@ -8,8 +8,8 @@
                 <div class="col-lg-6">
                     <div class="text-container">
                         <h2>Nuestras creaciones</h2>
-                        <p>Actualmente las aplicaciones que creamos pertenecen al portafolio de Paul guadalupe veliz lópez, te invitamos que visites su sitio web para que puedas visitar su portafolio y ver el tipo de aplicaciones que en velisol te podemos ofrecer.</p>
-                        <a class="btn-solid-reg popup-with-move-anim" href="https://www.paulveliz.ninja">Visitar sitio de paul</a>
+                        <p>Proximamente!</p>
+                        {{-- <a class="btn-solid-reg popup-with-move-anim" href="#">Ver portafolio</a> --}}
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
                 <div class="col-lg-6">
